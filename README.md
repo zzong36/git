@@ -16,7 +16,7 @@ GitHub를 이용하기 위해 알아야 하는 정보를 유튜브 영상으로 
 사용자에 설정: >>git config --global user.name,  >>git config --global user.email <br>
 저장소 상태 확인: >> git status<br>
 저장소에 저장: >> git add 와 >> git commit -m<br>
-#### tip
+#### !!TIP!!
 Git 저장소를 잘못 설정한 경우(이상한 파일 git init) 차분하게 숨겨진 .git 폴더를 다 지우면 해결됩니다.<br>
 
 
