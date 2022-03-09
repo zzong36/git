@@ -10,32 +10,34 @@ GitHub를 이용하기 위해 알아야 하는 정보를 유튜브 영상으로 
 <iframe width="998" height="530" src="https://www.youtube.com/embed/fCC2SRMziJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 
-## GitBash 사용법
-### 1. Git 초기 설정
+## 2. GitBash 사용법
+### 가. Git 초기 설정
 저장소 초기화: >> git init <br>
 사용자에 설정: >>git config --global user.name,  >>git config --global user.email <br>
 저장소 상태 확인: >> git status<br>
 저장소에 저장: >> git add 와 >> git commit -m<br>
 
-### 2. Branch 관리
+### 나. Branch 관리
 Branch는 새로운 기능을 추가하거나 버그 수정을 할 때 사용할 수 있는데, GitBash에서는 다음의 명령어를 이용합니다.<br>
 현재 브랜치 확인 >> git branch<br>
 브랜치 생성 >> git branch 새로운 브랜치 이름<br>
 브랜치 변경 >> git checkout 브랜치 이름<br>
 브랜치 합치기 >> git merge 브랜치 이름 (병합될 브랜치로 가서 명령어를 입력해야 합니다)<br>
 
-### 3. Remote 저장소 연동하기
+### 다. Remote 저장소 연동하기
 원격 저장소와 연동하기 위해서는 다음 단계를 따르면 됩니다.<br>
 원격 저장소 저장: >> git remote add origin GitHub 원격 저장소 주소<br>
 저장이 잘 되었는지 확인: >> git remote 또는 >> git remote -v<br>
 원격 저장소 Branch 가져오기(default가 clone 됨): >> git clone 깃허브 Repository 주소<br>
 다른 Branch clone 하기: >> git checkout -t origin/브랜치 이름<br>
 
-### 라. 4. Push와 Pull
+### 라. Push와 Pull
 Push는 Local에서 원격저장소로 보냅니다.<br>
 커밋 한 후 Push: >> git push<br>
-Pull은 원격 저장소에서 Local로 데이터를 가져오는 것입니다.<br>
->> git pull<br>
+Pull은 원격 저장소에서 Local로 데이터를 가져오기: >> git pull<br>
+
+
+
 
 ## Sourcetree 사용법
 Sourcetree를 사용하면 직관적으로 Git을 관리할 수 있습니다.<br>
