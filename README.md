@@ -7,7 +7,7 @@ Git은 파일을 쉽게 관리하도록 도와주는 프로그램입니다. <br>
 
 ### GitHub 기본 사용 방법
 GitHub를 이용하기 위해 알아야 하는 정보를 유튜브 영상으로 만들었습니다.
-<iframe width="998" height="530" src="https://www.youtube.com/embed/fCC2SRMziJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fCC2SRMziJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 
 ## 2. GitBash 사용법
@@ -42,7 +42,7 @@ Pull은 원격 저장소에서 Local로 데이터를 가져오기: >> git pull<b
 ## Sourcetree 사용법
 Sourcetree를 사용하면 직관적으로 Git을 관리할 수 있습니다.<br>
 사용방법은 아래 영상에 자세히 설명하였습니다.<br>
-<iframe width="998" height="530" src="https://www.youtube.com/embed/km2_F3--S6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/km2_F3--S6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 * Sourcetree에서 깃허브(Github)로 로그인할 때 비밀번호를 잘못 설정해 Push나 Pull이 안 되는 경우<br>
 다음 [링크](https://stackoverflow.com/questions/45690641/sourcetree-wont-let-me-delete-password)를 참고해주세요.
